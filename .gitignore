@@ -1,0 +1,17 @@
+# Unreal Engine ignores
+Binaries/
+Build/
+Intermediate/
+Saved/
+
+# Ignore logs
+*.log
+
+# Ignore IDE and editor-specific files
+.vscode/
+.vs/
+.idea/
+
+# Miscellaneous
+*.tmp
+*.cache
